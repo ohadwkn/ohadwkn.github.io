@@ -1,9 +1,17 @@
+# Basic configuration
+title: AI On It
+description: AI On It Privacy Policy
 theme: jekyll-theme-minimal
+
+# Markdown processing settings
 markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Optional settings
 plugins:
   - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - index.md
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
