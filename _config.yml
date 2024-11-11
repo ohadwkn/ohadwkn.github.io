@@ -1,7 +1,7 @@
 # Basic configuration
 title: AI On It
 description: AI On It Privacy Policy
-theme: privacy-policy
+theme: jekyll-theme-cayman
 
 # Markdown processing settings
 markdown: kramdown
