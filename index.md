@@ -1,92 +1,78 @@
-# AI On It Privacy Policy
+---
+layout: default
+title: AI On It - Your Email Intelligence Assistant
+description: Never miss important details from your emails with AI-powered event and task detection
+---
 
-Last Updated: Nov 10, 2024
+# Never miss a moment. Quickly and effortlessly with AI.
 
-## 1. Introduction
-AI On It ("we", "our", or "the extension") is committed to protecting your privacy. This policy explains how we collect, use, and protect your data when you use our Chrome extension.
+[<img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/iNEddTyWiMfLSwFD6qGq.png" alt="Available in the Chrome Web Store" width="250" class="center-image"/>](https://chromewebstore.google.com/detail/ai-on-it/elchfinnpbfhjahpmgdoceopbfkeekob){:target="_blank"}
 
-## 2. Data Collection and Usage
+## Transform Your Email Experience
 
-### 2.1 Data We Collect
-We collect the following data only when you explicitly interact with our extension:
+AI On It is a smart Chrome extension that automatically scans your Gmail messages and uses AI to identify potential events, meetings, deadlines, and tasks - ensuring you never miss important details.
 
-- **Authentication Information**
-  - Google account email address
-  - OAuth tokens for Gmail and Calendar access
-  - Display name and profile picture (if available)
+### 🎯 Perfect For
 
-- **Email Content**
-  - Email content is processed only when you click the "AI On It" button
-  - Email subject, sender, and body text are analyzed temporarily
-  - No email content is stored permanently
+* Parents overwhelmed with school tasks and events
+* Busy professionals managing multiple commitments
+* Team leaders coordinating meetings and deadlines
+* Anyone who wants to streamline their email workflow
 
-- **Usage Data**
-  - Anonymous feature usage statistics
-  - Button clicks and interaction patterns
-  - Error logs for troubleshooting
+### ✨ Key Features
 
-### 2.2 How We Use Your Data
+#### 🤖 Smart Email Analysis
+* Automatically detects important information
+* Identifies dates, times, locations, and action items
+* Works seamlessly within Gmail's interface
 
-- **Email Analysis**
-  - Email content is analyzed directly between the extension and AI model
-  - Analysis is used only to suggest calendar events and tasks
-  - Content is processed in real-time and not stored
+#### 📅 One-Click Calendar Integration
+* Creates calendar events instantly
+* Automatically fills in all event details
+* Syncs directly with Google Calendar
 
-- **Authentication**
-  - OAuth tokens are used solely for Gmail and Calendar API access
-  - Tokens are stored securely in your browser
-  - No passwords or credentials are ever stored
+#### ✅ Intelligent Task Management
+* Extracts action items and to-dos
+* Creates structured tasks with due dates
+* Categorizes by priority (Mandatory/Optional)
 
-## 3. Data Protection
+#### 🎨 User-Friendly Interface
+* Integrates naturally with Gmail
+* Clear, actionable suggestions
+* Beautiful organization of information
 
-### 3.1 Data Storage
-- All data is stored locally in your browser
-- OAuth tokens are encrypted and stored using Chrome's secure storage
-- No email content is stored beyond the immediate analysis
+## How It Works
 
-### 3.2 Data Transmission
-- Data is transmitted directly between:
-  - Your browser and Google's servers (for Gmail/Calendar access)
-  - Your browser and our AI model (for email analysis)
-- All transmissions use secure HTTPS connections
+1. **Install & Sign In** - Add the extension and connect your Google account
+2. **Read Your Emails** - Browse your inbox as usual
+3. **Get Smart Suggestions** - AI On It identifies events and tasks
+4. **One-Click Actions** - Create calendar events and tasks instantly
 
-## 4. Third-Party Services
+## Security & Privacy
 
-We use the following services:
-- Google Gmail API (for email access)
-- Google Calendar API (for event creation)
-- AI Model API (for email analysis)
+* 🔒 Your data is encrypted and secure
+* 🛡️ Minimal permissions required
+* 🤝 Clear privacy policy
+* ❌ No data sharing with third parties
 
-We do not:
-- Sell your data to third parties
-- Share your data for advertising purposes
-- Use your data for purposes unrelated to the extension's core functionality
+## Get Started Today
 
-## 5. User Rights and Controls
+[<img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/iNEddTyWiMfLSwFD6qGq.png" alt="Available in the Chrome Web Store" width="250" class="center-image"/>](https://chromewebstore.google.com/detail/ai-on-it/elchfinnpbfhjahpmgdoceopbfkeekob){:target="_blank"}
 
-You can:
-- Review and revoke permissions at any time through Chrome extension settings
-- Delete all local data by uninstalling the extension
-- Access your Google security settings to manage app permissions: https://myaccount.google.com/permissions
+---
 
-## 6. Data Retention
+### Join thousands of users saving time and never missing important details
 
-- OAuth tokens: Stored until you revoke access or uninstall the extension
-- Email content: Processed temporarily, not stored
-- Usage data: Retained anonymously for 30 days
+[Install AI On It Today](https://chromewebstore.google.com/detail/ai-on-it/elchfinnpbfhjahpmgdoceopbfkeekob){: .btn .btn-primary target="_blank"}
 
-## 7. Changes to Privacy Policy
+---
 
-We may update this privacy policy to reflect changes in our practices or for legal/regulatory reasons. We will notify users of any material changes through the extension.
-
-## 8. Contact Information
-
-For privacy-related questions or concerns, contact us at:
-[Your Contact Information]
-
-## 9. Compliance
-
-This extension complies with:
-- Chrome Web Store Developer Program Policies
-- Google API Services User Data Policy
-- GDPR (General Data Protection Regulation)
+<footer class="site-footer">
+  <span class="site-footer-owner">
+    <a href="/privacy-notice">Privacy Notice</a> | 
+    <a href="/terms-of-service">Terms of Service</a>
+  </span>
+  <span class="site-footer-credits">
+    © 2024 AI On It. All rights reserved.
+  </span>
+</footer>
