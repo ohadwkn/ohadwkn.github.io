@@ -6,7 +6,7 @@ description: Never miss important details from your emails with AI-powered event
 
 # Never miss a moment. Quickly and effortlessly with AI.
 
-[<img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/iNEddTyWiMfLSwFD6qGq.png" alt="Available in the Chrome Web Store" width="250" class="center-image"/>](https://chromewebstore.google.com/detail/ai-on-it/elchfinnpbfhjahpmgdoceopbfkeekob){:target="_blank"}
+[<img src="/assets/images/chrome-web-store-badge.png" alt="Available in the Chrome Web Store" width="250" class="center-image"/>](https://chromewebstore.google.com/detail/ai-on-it/elchfinnpbfhjahpmgdoceopbfkeekob){:target="_blank"}
 
 ## Transform Your Email Experience
 
@@ -57,7 +57,7 @@ AI On It is a smart Chrome extension that automatically scans your Gmail message
 
 ## Get Started Today
 
-[<img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/iNEddTyWiMfLSwFD6qGq.png" alt="Available in the Chrome Web Store" width="250" class="center-image"/>](https://chromewebstore.google.com/detail/ai-on-it/elchfinnpbfhjahpmgdoceopbfkeekob){:target="_blank"}
+[<img src="/assets/images/chrome-web-store-badge.png" alt="Available in the Chrome Web Store" width="250" class="center-image"/>](https://chromewebstore.google.com/detail/ai-on-it/elchfinnpbfhjahpmgdoceopbfkeekob){:target="_blank"}
 
 ---
 
